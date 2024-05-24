@@ -8,8 +8,8 @@ import solvedProblems
 
 if __name__ == "__main__":
 	payload = {
-		'username' : 'shubmore1999@gmail.com',
-		'password' : 'HockeyStar88'
+		'username' : '',
+		'password' : ''
 	}
 	starting_url = 'https://leetcode.com/accounts/login/'
 	problemset_url = 'https://leetcode.com/problemset/'
